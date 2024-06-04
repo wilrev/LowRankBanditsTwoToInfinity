@@ -1,7 +1,7 @@
 
 # Code for Low-Rank Bandits via Tight Two-to-Infinity Singular Subspace Recovery
 
-  This code contains an implementation of the algorithms used for the Policy Evaluation and Best Policy Identification tasks considered in the paper (SIPS,RS-PE,SBPI and RS-BPI). 
+  This code contains an implementation of the algorithms used for the Policy Evaluation and Best Policy Identification tasks considered in <a href="https://arxiv.org/abs/2402.15739">the paper</a>  (SIPS,RS-PE,SBPI and RS-BPI). 
   The code is written in Python (version 3.11).
 
 
